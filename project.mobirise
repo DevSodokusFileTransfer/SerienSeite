@@ -1,0 +1,414 @@
+{
+  "settings": {
+    "name": "Site-11-28_1753",
+    "currentPage": "LWAStaffel1.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#8000ff",
+        "#ff0099",
+        "#00ff4a",
+        "#e9ff00",
+        "#0023ff",
+        "#00e2ff",
+        "#00ffff"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.7",
+    "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/638338-128x93.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "uniqCompNum": 8,
+    "versionPublish": "4.8.7",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Serien",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/638338-2000x1455.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Sankarea",
+          "text": "<b><i>Furuya und Rea könnten nicht unterschiedlicher sein. Während er sich nur für Bücher, Spiele und Figuren um den Zombie-Kult interessiert und sogar versucht, seine Katze von den Toten auferstehen zu lassen, ist sie die Tochter der Schuldirektorin und Musterschülerin an der renommierten Mädchenschule. Doch als die beiden eines Tages in einer abgelegenen Fabrikhalle aufeinander treffen, werden ihre Schicksale untrennbar miteinander verwoben.</i></b><b><i><br></i></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Staffel 1</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Specials(Nicht Verfügbar)</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-1",
+          "_styles": {
+            "H1": {
+              "color": "#ff0099",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "60px"
+            },
+            "I": {
+              "color": "#0023ff",
+              "font-size": "23px"
+            }
+          }
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/795657-2000x1125.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<i>Little Witch Academia</i>",
+          "text": "<b>Als kleines Mädchen besuchte Akko Kagari einmal das „Magical Festa“, welches von der Hexe Shiny Chariot veranstaltet wurde. Fasziniert von dem was sie dort sah, träumt Akko davon, eines Tages selbst eine so coole Hexe zu werden wie Shiny Chariot es ist. Als ganz gewöhnliches Mädchen besucht sie nun auch die berühmte Hexenschule für Mädchen ‒ die Luna Nova Akademie. Eines Tages wird jedoch unter dem Turm der Akademie ein versiegelter Drache von einer ihrer Klassenkameradinnen freigelassen und als Akko versucht diesen zu stoppen, passiert etwas unerwartetes …</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Staffel 1</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-5",
+          "_styles": {
+            "H1": {
+              "color": "#ff0099",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "60px"
+            },
+            "I": {
+              "color": "#00ffff",
+              "font-size": "46px"
+            },
+            "P": {
+              "color": "#00ff4a",
+              "text-align": "right"
+            },
+            "B": {
+              "color": "#8000ff",
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          }
+        }
+      ]
+    },
+    "SankareaStaffel1.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Sankarea S1",
+        "order": 2
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumb-1920-342394-1920x1200.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 1",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/KyljE_cjiqY/Sankarea_Undying_Love_2012.E01.German_AC3.720p.BluRay_x264_-_AST4u.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumb-1920-342394-1920x1200.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 2",
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/Eo_O6-HvAUY/Sankarea_Undying_Love_2012.E02.German_AC3.720p.BluRay_x264_-_AST4u.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumb-1920-342394-1920x1200.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 3",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumb-1920-342394-1920x1200.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 4",
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/Q_CXPnp3uUA/Sankarea_Undying_Love_2012.E04.German_AC3.720p.BluRay_x264_-_AST4u.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumb-1920-342394-1920x1200.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 5",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/QU4gtreELc0/Sankarea.Ep.05.German.AC3.720p.BluRay.x264-AST4u.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumb-1920-342394-1920x1200.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 6",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/PuWok6upZys/Sankarea_Undying_Love_2012.E06.German_AC3.720p.BluRay_x264_-_AST4u.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> ",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumb-1920-342394-1920x1200.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 7",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/j_PpTzPWmS8/Sankarea_Undying_Love_2012.E07.German_AC3.720p.BluRay_x264_-_AST4u.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumb-1920-342394-1920x1200.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 8",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/_0vBI08C9wE/Sankarea_Undying_Love_2012.E08.German_AC3.720p.BluRay_x264_-_AST4u.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumb-1920-342394-1920x1200.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 9",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/Udfey2LDvFw/Sankarea_Undying_Love_2012.E09.German_AC3.720p.BluRay_x264_-_AST4u.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumb-1920-342394-1920x1200.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 10",
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/OF5QjaQVivQ/Sankarea_Undying_Love_2012.E10.German_AC3.720p.BluRay_x264_-_AST4u.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumb-1920-342394-1920x1200.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 11",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/hHB08iVjfyU/Sankarea_Undying_Love_2012.E11.German_AC3.720p.BluRay_x264_-_AST4u.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thumb-1920-342394-1920x1200.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 12",
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/JO19Gl3XLBA/Sankarea.Ep.12.German.AC3.720p.BluRay.x264-AST4u.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-4",
+          "_styles": {
+            "H1": {
+              "color": "#e9ff00"
+            }
+          }
+        }
+      ]
+    },
+    "LWAStaffel1.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "LWA",
+        "order": 1
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/795657-2000x1125.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 1",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/uGZjEGNmsPg/Little.Witch.Academia.2017.S01E01.GERMAN.ANiME.WEBRiP.x264-iNFOTv.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/795657-2000x1125.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 2",
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/vD0preIT47k/Little.Witch.Academia.2017.S01E02.GERMAN.ANiME.WEBRiP.x264-iNFOTv.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/795657-2000x1125.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 3",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/aIUkGZv5Vpg/Little.Witch.Academia.2017.S01E03.GERMAN.ANiME.WEBRiP.x264-iNFOTv.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/795657-2000x1125.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 4",
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/F5U-Vw7JYOw/Little.Witch.Academia.2017.S01E04.GERMAN.ANiME.WEBRiP.x264-iNFOTv.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/795657-2000x1125.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 5",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/RzgtbDy-Drk/Little.Witch.Academia.2017.Ep05.Pact.of.the.Dragon.German.AC3.480p.WebRip.x264.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/795657-2000x1125.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 6",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/LdVTvj8I9qk/Little.Witch.Academia.2017.Ep06.The.Fountain.German.AC3.480p.WebRip.x264.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/795657-2000x1125.png",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Folge 7",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://oload.fun/embed/XsRXIGluixE/Little.Witch.Academia.2017.Ep07.Orange.Submariner.German.AC3.480p.WebRip.x264.mkv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Openload</a> "
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-7"
+        }
+      ]
+    }
+  }
+}

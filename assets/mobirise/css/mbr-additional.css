@@ -1,4 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+
+
 
 #header2-1 H1 {
   color: #ff0099;
@@ -8,6 +12,26 @@
 #header2-1 I {
   color: #0023ff;
   font-size: 23px;
+}
+#header1-5 H1 {
+  color: #ff0099;
+  font-family: 'Slabo 27px', serif;
+  font-size: 60px;
+}
+#header1-5 I {
+  color: #00ffff;
+  font-size: 46px;
+}
+#header1-5 P {
+  color: #00ff4a;
+  text-align: right;
+}
+#header1-5 B {
+  color: #8000ff;
+  font-size: 20px;
+}
+#header1-5 .btn {
+  font-family: 'Droid Serif', serif;
 }
 #slider-4 H1 {
   color: #e9ff00;

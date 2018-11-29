@@ -62,7 +62,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<i>Little Witch Academia</i>",
-          "text": "<b>Als kleines Mädchen besuchte Akko Kagari einmal das „Magical Festa“, welches von der Hexe Shiny Chariot veranstaltet wurde. Fasziniert von dem was sie dort sah, träumt Akko davon, eines Tages selbst eine so coole Hexe zu werden wie Shiny Chariot es ist. Als ganz gewöhnliches Mädchen besucht sie nun auch die berühmte Hexenschule für Mädchen ‒ die Luna Nova Akademie. Eines Tages wird jedoch unter dem Turm der Akademie ein versiegelter Drache von einer ihrer Klassenkameradinnen freigelassen und als Akko versucht diesen zu stoppen, passiert etwas unerwartetes …</b>",
+          "text": "<b>Als kleines Mädchen besuchte Akko Kagari einmal das „Magical Festa“, welches von der Hexe Shiny Chariot veranstaltet wurde. Fasziniert von dem was sie dort sah, träumt Akko davon, eines Tages selbst eine so coole Hexe zu werden wie Shiny Chariot es ist. Als ganz gewöhnliches Mädchen besucht sie nun auch die berühmte Hexenschule für Mädchen ‒ die Luna Nova Akademie.&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://devsodokusfiletransfer.github.io/SerienSeite/LWAStaffel1.html\" data-toolbar=\"-mbrBtnMove\">Staffel 1</a> ",
           "_tags": [
             "Theme"
@@ -74,7 +74,8 @@
               "color": "#ff0099",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "center"
             },
             "I": {
               "color": "#00ffff",
@@ -82,7 +83,7 @@
             },
             "P": {
               "color": "#00ff4a",
-              "text-align": "right"
+              "text-align": "center"
             },
             "B": {
               "color": "#8000ff",

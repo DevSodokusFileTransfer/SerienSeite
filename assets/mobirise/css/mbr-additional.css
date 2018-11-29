@@ -8,6 +8,7 @@
   color: #ff0099;
   font-family: 'Slabo 27px', serif;
   font-size: 60px;
+  text-align: center;
 }
 #header1-5 I {
   color: #00ffff;
@@ -15,7 +16,7 @@
 }
 #header1-5 P {
   color: #00ff4a;
-  text-align: right;
+  text-align: center;
 }
 #header1-5 B {
   color: #8000ff;

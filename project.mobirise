@@ -41,49 +41,6 @@
       },
       "components": [
         {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/638338-2000x1455.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Sankarea",
-          "text": "<b><i>Furuya und Rea könnten nicht unterschiedlicher sein. Während er sich nur für Bücher, Spiele und Figuren um den Zombie-Kult interessiert und sogar versucht, seine Katze von den Toten auferstehen zu lassen, ist sie die Tochter der Schuldirektorin und Musterschülerin an der renommierten Mädchenschule. Doch als die beiden eines Tages in einer abgelegenen Fabrikhalle aufeinander treffen, werden ihre Schicksale untrennbar miteinander verwoben.</i></b><b><i><br></i></b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Staffel 1</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Specials(Nicht Verfügbar)</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header2",
-          "_anchor": "header2-1",
-          "_styles": {
-            "H1": {
-              "color": "#ff0099",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "60px"
-            },
-            "I": {
-              "color": "#0023ff",
-              "font-size": "23px"
-            }
-          }
-        },
-        {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "showTitle": true,
@@ -134,6 +91,49 @@
             ".btn": {
               "font-family": "'Droid Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/638338-2000x1455.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Sankarea",
+          "text": "<b><i>Furuya und Rea könnten nicht unterschiedlicher sein. Während er sich nur für Bücher, Spiele und Figuren um den Zombie-Kult interessiert und sogar versucht, seine Katze von den Toten auferstehen zu lassen, ist sie die Tochter der Schuldirektorin und Musterschülerin an der renommierten Mädchenschule. Doch als die beiden eines Tages in einer abgelegenen Fabrikhalle aufeinander treffen, werden ihre Schicksale untrennbar miteinander verwoben.</i></b><b><i><br></i></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Staffel 1</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Specials(Nicht Verfügbar)</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-1",
+          "_styles": {
+            "H1": {
+              "color": "#ff0099",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "60px"
+            },
+            "I": {
+              "color": "#0023ff",
+              "font-size": "23px"
             }
           }
         }

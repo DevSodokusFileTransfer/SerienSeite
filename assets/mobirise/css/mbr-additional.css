@@ -1,29 +1,25 @@
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
-@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
-#header1-5 H1 {
-  color: #ff0099;
-  font-family: 'Slabo 27px', serif;
-  font-size: 60px;
-  text-align: center;
-}
-#header1-5 I {
-  color: #00ffff;
-  font-size: 46px;
-}
-#header1-5 P {
-  color: #00ff4a;
-  text-align: center;
-}
-#header1-5 B {
+
+
+
+#header1-8 H1 {
   color: #8000ff;
-  font-size: 20px;
+  font-family: 'Lora', serif;
+  font-size: 48px;
 }
-#header1-5 .btn {
-  font-family: 'Droid Serif', serif;
+#header1-8 P {
+  color: #ff0000;
+  font-family: 'Indie Flower', cursive;
+  font-size: 24px;
+}
+#header1-8 I {
+  color: #ff00dc;
 }
 #header2-1 H1 {
   color: #ff0099;
@@ -34,6 +30,32 @@
   color: #0023ff;
   font-size: 23px;
 }
+#msg-box3-9 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #0070ff;
+  font-family: 'Lora', serif;
+  font-size: 48px;
+}
+#msg-box3-9 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-9 .mbr-header .mbr-header__text I {
+  font-size: 46px;
+  font-family: 'Slabo 27px', serif;
+}
+#msg-box3-9 .mbr-article {
+  color: #ff6000;
+  font-size: 23px;
+}
+#msg-box3-9 .mbr-article B {
+  font-size: 25px;
+  color: #00ffe2;
+  font-family: 'Raleway', sans-serif;
+}
 #slider-4 H1 {
   color: #e9ff00;
+}
+#slider-a H1 {
+  font-size: 36px;
+  color: #00c6ff;
 }
